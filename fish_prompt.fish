@@ -1,4 +1,4 @@
-# Hello Here :)
+# Hello There :)
 # https://github.com/chibiace/A_Fish_Prompt
 
 
